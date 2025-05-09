@@ -215,6 +215,18 @@ composer install
        <a href="https://www.instagram.com/tatu_wp" title="instagram">@tatu_wp</a>
        <br />
     </td>
+    <td align="center">
+      <a href="https://github.com/Marques894">
+        <img src="https://avatars.githubusercontent.com/u/179543395?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>Renan Marques</b>
+        </sub>
+       </a>
+       <br />
+       <a href="https://www.instagram.com/augustti_m?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" title="instagram">@augustti_m</a>
+       <br />
+    </td>
   </table>
   <br>
 
