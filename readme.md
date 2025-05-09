@@ -217,7 +217,7 @@ composer install
     </td>
     <td align="center">
       <a href="https://github.com/Marques894">
-        <img src="https://avatars.githubusercontent.com/u/179543395?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/136036690?v=4" width="100px;" alt=""/>
         <br />
         <sub>
           <b>Renan Marques</b>
