@@ -110,7 +110,7 @@ composer install
 7. Abra o sistema clicando na pasta views.
 8. Pronto você verá a página Home do sistema.
 
-## 📂 Arquitetura do Projeto
+## 📂 Arquitetura(MVC) e funcionalidades do Projeto
 
 ```bash
 📂 lava_rapido/
@@ -121,7 +121,7 @@ composer install
 │
 ├── 📂 controllers/-(lógica de negócios - salvar, listar, excluir)
 │   ├── 📂 Api/
-│   │    ├── 📄get_agndamentos.php(listar agendamentos)
+│   │    ├── 📄 get_agndamentos.php(listar agendamentos)
 │   │    └── 📄 get_veiculos.php (listar veiculos)
 |   |
 |   ├── 📄 add_agendamento.php(adicionar agendamento)
@@ -237,6 +237,10 @@ Professor, <a href="https://github.com/orlandosaraivajr">Orlando Saraiva.</a>
 ## :memo: Licença
 
 Esse projeto está sob a licença Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0).
+
+Para mais informações acesse o link:
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
